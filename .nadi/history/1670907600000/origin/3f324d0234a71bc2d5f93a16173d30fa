@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Utility for Facebook</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#157878">
+  <link rel="stylesheet" href="css/normalize.css">
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" href="css/cayman.css">
+</head>
+
+<body>
+  <section class="page-header">
+    <h1 class="project-name">Utility for Facebook</h1>
+    <h2 class="project-tagline">Utility for Facebook to improve Facebook user's experience and more</h2>
+    <a href="https://github.com/2Red/utility-for-facebook" class="btn">View on GitHub</a>
+    <a href="#donate" class="btn">Donate</a>
+  </section>
+
+  <section class="main-content">
+    <h1>
+      <a id="features" class="anchor" href="#features" aria-hidden="true">
+        <span class="octicon octicon-link"></span>
+      </a>
+      Features
+    </h1>
+
+    <h2>
+      <a id="ecurity" class="anchor" href="#header-2" aria-hidden="true">
+        <span class="octicon octicon-link"></span>
+      </a>
+      Security
+    </h2>
+
+    <blockquote>
+      <p>Turn on profile picture guard</p>
+      <p>Protect your avatar</p>
+    </blockquote>
+
+    <h2>
+      <a id="facebook-kount" class="anchor" href="#header-2" aria-hidden="true">
+        <span class="octicon octicon-link"></span>
+      </a>
+      Facebook Kount
+    </h2>
+
+    <blockquote>
+      <p>Message rankings are based on friends</p>
+    </blockquote>
+
+    <h2>
+      <a id="check-online" class="anchor" href="#header-2" aria-hidden="true">
+        <span class="octicon octicon-link"></span>
+      </a>
+      Check user online
+    </h2>
+
+    <blockquote>
+      <p>List user is online on Facebook</p>
+    </blockquote>
+
+    <h2>
+      <a id="unseen-message" class="anchor" href="#header-2" aria-hidden="true">
+        <span class="octicon octicon-link"></span>
+      </a>
+      Unseen message
+    </h2>
+
+    <blockquote>
+      <p>Block feature seen in messenger</p>
+    </blockquote>
+
+    <h2>
+      <a id="group-page-management" class="anchor" href="#header-2" aria-hidden="true">
+        <span class="octicon octicon-link"></span>
+      </a>
+      Group and page management (Enable on version 4.1.0)
+    </h2>
+
+    <blockquote>
+      <p>Leave multiple/all groups that you joined</p>
+      <p>Unlike multiple/all pages that you liked</p>
+    </blockquote>
+    
+    <h2>
+      <a id="group-page-management" class="anchor" href="#header-2" aria-hidden="true">
+        <span class="octicon octicon-link"></span>
+      </a>
+      Interactive scan (Release in version 4.2.0)
+    </h2>
+    
+    <blockquote>
+      <p>A feature help you scan interactive with your friends</p>
+    </blockquote>
+
+    <h2>
+      <a id="emoji" class="anchor" href="#header-2" aria-hidden="true">
+        <span class="octicon octicon-link"></span>
+      </a>
+      Emoji, icon funny
+    </h2>
+
+    <blockquote>
+      <p>Emoji sample</p>
+      <p>Icon funny</p>
+      <p>...you can copy them and use</p>
+    </blockquote>
+
+    <h2>
+      <a id="first-message" class="anchor" href="#header-2" aria-hidden="true">
+        <span class="octicon octicon-link"></span>
+      </a>
+      See the first message (Enable on version 4.1.0)
+    </h2>
+
+    <blockquote>
+      <p>A feature help you see the first message you sent to your friend</p>
+    </blockquote>
+
+    <h2>
+      <a id="storm-like" class="anchor" href="#header-2" aria-hidden="true">
+        <span class="octicon octicon-link"></span>
+      </a>
+      Storm (spam) likes your friend (Enable on version 4.1.0)
+    </h2>
+
+    <blockquote>
+      <p>A feature help you to storm (spam) likes on your friends posts</p>
+    </blockquote>
+    
+    <h2>
+      <a id="download-video" class="anchor" href="#header-2" aria-hidden="true">
+        <span class="octicon octicon-link"></span>
+      </a>
+      Download video from Facebook
+    </h2>
+
+    <blockquote>
+      <p>A feature help you download video from Facebook</p>
+    </blockquote>
+
+    <h2>
+      <a id="custom-theme" class="anchor" href="#header-2" aria-hidden="true">
+        <span class="octicon octicon-link"></span>
+      </a>
+      Custom theme
+    </h2>
+
+    <blockquote>
+      <p>A feature help you customize the web interface at your discretion</p>
+      <p>Websites is being supported:</p>
+      <p>Facebook</p>
+      <p>Google</p>
+      <p>Youtube</p>
+    </blockquote>
+    
+    <h2>
+      <a id="custom-theme" class="anchor" href="#header-2" aria-hidden="true">
+        <span class="octicon octicon-link"></span>
+      </a>
+      Website blocker
+    </h2>
+
+    <h2>
+      <a id="extra-features" class="anchor" href="#header-2" aria-hidden="true">
+        <span class="octicon octicon-link"></span>
+      </a>
+      Extra features
+    </h2>
+
+    <blockquote>
+      <p>Stop load more new feed</p>
+      <p>Count the time you spend on facebook</p>
+      <p>Change the message alert tone with google speech</p>
+      <p>Dusky Gray Facebook [Dark Theme]</p>
+      <p>DarkSearch for Google</p>
+      <p>Youtube red</p>
+    </blockquote>
+
+    <h1>
+      <a id="credits" class="anchor" href="#features" aria-hidden="true">
+        <span class="octicon octicon-link"></span>
+      </a>
+      Credits
+    </h1>
+
+    <blockquote>
+      <p>Dusky Gray Facebook [Dark Theme] by
+        <a href="https://userstyles.org/styles/118180/dusky-gray-facebook-dark-theme">pierO'nMu</a>
+      </p>
+      <p>DarkSearch for Google by
+        <a href="https://userstyles.org/styles/118959/darksearch-for-google">Nass O</a>
+      </p>
+      </p>
+      <p>Youtube red by
+        <a href="https://userstyles.org/styles/154831/youtube-red-by-piraterex">Piraterex lk</a>
+      </p>
+    </blockquote>
+  
+    <h1>
+      <a id="donate" class="anchor" href="./privacy.html" aria-hidden="true">
+        <span class="octicon octicon-link"></span>
+      </a>
+      Privacy Policy
+    </h1>
+  
+    <blockquote>
+      <p>See here
+        <a href="./privacy.html">Privacy policy</a>
+      </p>
+    </blockquote>
+
+    <h1>
+      <a id="donate" class="anchor" href="#features" aria-hidden="true">
+        <span class="octicon octicon-link"></span>
+      </a>
+      Donations
+    </h1>
+
+    <blockquote>
+      <p>
+        <a href="https://vrdonate.vn/1568814000dinze">vrdonate.vn</a>
+      </p>
+      <hr/>
+      <img width="200" src="ntan-momo.jpg" />
+      <hr/>
+      <p>
+        <p>Ngân hàng: BIDV</p>
+        <p>Số tài khoản: 144 100 000 60400</p>
+      </p>
+    </blockquote>
+
+    <footer class="site-footer">
+      <span class="site-footer-owner">
+        <a href="https://github.com/2Red/utility-for-facebook">Utility for Facebook</a>
+        is maintained by
+        <a href="https://github.com/2Red">2Red</a>
+      </span>
+      <span class="site-footer-credits">This page was generated by
+        <a href="https://pages.github.com">GitHub Pages</a> using the
+        <a href="https://github.com/jasonlong/cayman-theme">Cayman theme</a> by
+        <a href="https://twitter.com/jasonlong">Jason Long</a>.</span>
+    </footer>
+
+  </section>
+
+</body>
+
+</html>
